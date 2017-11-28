@@ -7,6 +7,7 @@ class Node:
         self.nextNodes = []
         self.x = x
         self.y = y
+        self.adam = "adam"
 
 class Id3:
     def __init__(self, attributes, classes, names):
