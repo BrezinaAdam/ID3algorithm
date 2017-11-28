@@ -1,0 +1,11 @@
+gender cars cost income class
+male 0 cheap low bus
+male 1 cheap med bus
+female 1 cheap med train
+female 0 cheap low bus
+male 1 cheap med bus
+male 0 stand med train
+female 1 stand med train
+female 1 expen hig car
+male 2 expen med car
+female 2 expen hig car
